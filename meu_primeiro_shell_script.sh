@@ -24,7 +24,7 @@ echo ""
 
 echo "Listando todos os arquivos do diretório atual"
 echo ""
-ls -l1
+ls -l1 .
 echo ""
 
 echo -n "Data atual: "
